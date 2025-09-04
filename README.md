@@ -1,8 +1,6 @@
-# FALL
-
 # Fall 🎮
 
-## **Fall** is a easy Unity game where you control a character to jump across platforms while avoiding spikes. Touching a spike will result in the character's death.  
+## **FALL** is a easy Unity game where you control a character to jump across platforms while avoiding spikes. Touching a spike will result in the character's death.  
 
 ### Gameplay
 - **Jump across platforms**: Navigate your character from one platform to another.  
@@ -15,10 +13,7 @@
 - **Character control**: Smooth player input for jumping and movement.  
 
 ---
-
-# Fall 🎮
-
-## **Fall** 是一个简单的 Unity 游戏，你需要操控角色跳到各个平台上，同时避免碰到带尖刺的障碍物。碰到尖刺角色会死亡。  
+## **FALL** 是一个简单的 Unity 游戏，你需要操控角色跳到各个平台上，同时避免碰到带尖刺的障碍物。碰到尖刺角色会死亡。  
 
 ### 游戏玩法
 - **跳跃平台**：控制角色从一个平台跳到另一个平台。  
